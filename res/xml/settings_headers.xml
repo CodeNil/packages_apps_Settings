@@ -273,6 +273,14 @@
         android:title="@string/accessibility_settings"
         android:summary="@string/header_summary_access" />
 
+    <!-- Superuser -->
+    <header
+        android:id="@+id/superuser"
+        android:fragment="com.koushikdutta.superuser.PolicyNativeFragment"
+        android:icon="@drawable/ic_action_permission"
+        android:title="@string/superuser_title"
+        android:summary="@string/header_summary_superuser" />
+
     <!-- About Device -->
     <header
         android:id="@+id/about_settings"

@@ -4439,10 +4439,10 @@
     <!-- Cell Broadcast settings description [CHAR LIMIT=100] -->
     <string name="cell_broadcast_settings_summary">Select the types of emergency alerts to display.</string>
 
-    <!-- RootBox -->
+    <!-- ESI -->
     <string name="rootbox_settings_title">Extended System Interface</string>
 
-    <!-- RootBox Settings -->
+    <!-- CodeBox Settings -->
     <string name="clock_header">LockClock Widget</string>
     <string name="sound_header">Sound Settings</string>
     <string name="lockscreen_header">Lockscreen Target Options</string>
@@ -4457,6 +4457,10 @@
     <!-- Launcher -->
     <string name="launcher_settings_title">Home Launcher</string>
     <string name="header_summary_home">Modify Your Launcher Settings</string>
+ 
+    <!-- SuperUser -->
+    <string name="superuser_title">SuperUser</string>
+    <string name="header_summary_superuser">SU Integration</string>
 
     <!--- Sms security limit -->
     <string name="app_security_title">App security</string>
@@ -4467,9 +4471,9 @@
     <string name="quick_links_title">CODEBOX E.L.E CONTROL</string>
     <string name="rom_control_title">System Interface Options</string>
     <string name="themes_title">Theme Chooser</string>
-    <string name="performance_title">CodeCPU Control</string>
+    <string name="performance_title">CodeKernel Control</string>
 
-    <string name="mod_version">E.L.E Build Version</string>
+    <string name="mod_version">E.L.E Build Number</string>
     <string name="mod_version_default">Unknown</string>
 
     <!-- Quiet hours #CM -->
